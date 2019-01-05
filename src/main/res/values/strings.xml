@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Krishi Sakhi</string>
+    <string name="welcome_message">Welcome to Krishi Sakhi</string>
+    <string name="button1">Crop Growth</string>
+    <string name="button2">New Crop Growth</string>
+    <string name="button3">Weather Conditions</string>
+    <string name="button4">Agro Chat Bot</string>
+    <string name="weather_conditions">Weather Conditions</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+
+
+</resources>
